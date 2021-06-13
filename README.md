@@ -1,3 +1,16 @@
+# Tela inicial
+![home](https://user-images.githubusercontent.com/12144348/121806685-3fbbdf80-cc27-11eb-9f0c-93d4da0c667d.gif)
+
+
+# Busca de livro
+![busca](https://user-images.githubusercontent.com/12144348/121806872-09329480-cc28-11eb-9099-fd5804b735f4.gif)
+
+
+# Movendo livro entre estantes
+![movendo-livros](https://user-images.githubusercontent.com/12144348/121806665-26b32e80-cc27-11eb-8df9-ae294137075a.gif)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
